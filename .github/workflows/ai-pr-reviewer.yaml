@@ -23,7 +23,7 @@ jobs:
       - uses: coderabbitai/ai-pr-reviewer@latest
         env:
           GITHUB_TOKEN: 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
-          OPENAI_API_KEY: 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
+          OPENAI_API_KEY: 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
         with:
           debug: false
           review_simple_changes: false
